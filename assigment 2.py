@@ -2,7 +2,7 @@
 #                  DATA STRUCTURES LABORATORY REPORT
 #          IMPLEMENTATION OF SINGLY LINKED LIST & THEORY ANSWERS
 # ==============================================================================
-# Submitted by: [AJIBOSE AFOLABI AMOS]
+# Submitted by: [ ADEBAYO SAMSON ]
 # Matric No:    [230502010]
 # Department:   Computer Science
 # course code:        CSC 301

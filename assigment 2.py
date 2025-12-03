@@ -3,7 +3,7 @@
 #          IMPLEMENTATION OF SINGLY LINKED LIST & THEORY ANSWERS
 # ==============================================================================
 # Submitted by: [ ADEBAYO SAMSON ]
-# Matric No:    [230502010]
+# Matric No:    [230502002]
 # Department:   Computer Science
 # course code:        CSC 301
 # course title:      Data Structures
